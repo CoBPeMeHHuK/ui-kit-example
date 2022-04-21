@@ -5,16 +5,9 @@
         "strict": true,
         "declaration": true,
         "declarationDir": "dist/types",
-        "noUnusedLocals": true,
-        "noUnusedParameters": true,
-        "importHelpers": true,
         "moduleResolution": "node",
-        "experimentalDecorators": true,
-        "esModuleInterop": true,
-        "allowSyntheticDefaultImports": true,
         "sourceMap": true,
         "baseUrl": ".",
-        "newLine": "lf",
         "types": [
             "node",
             "vue"
