@@ -25,7 +25,7 @@
 
 <script>
 export default {
-  name: 'UpButton',
+  name: 'TTUpButton',
   props: {
     visibleHeight: {
       type: Number,
